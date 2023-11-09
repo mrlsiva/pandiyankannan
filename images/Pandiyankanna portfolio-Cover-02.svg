@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 661">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-family: OPTIVenus-BoldExtended, OPTIVenus;
+        font-size: 27.92px;
+        font-weight: 700;
+      }
+
+      .cls-6 {
+        letter-spacing: .01em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        font-family: HelveticaNeueLTStd-BlkEx, 'Helvetica Neue LT Std';
+      }
+
+      .cls-3 {
+        font-size: 15.16px;
+      }
+
+      .cls-3, .cls-5 {
+        font-family: StretchProRegular, 'Stretch Pro';
+      }
+
+      .cls-9 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        font-size: 16.53px;
+      }
+
+      .cls-11 {
+        letter-spacing: -.12em;
+      }
+
+      .cls-12 {
+        font-family: HelveticaNeueLTStd-Roman, 'Helvetica Neue LT Std';
+      }
+
+      .cls-5 {
+        font-size: 17.2px;
+      }
+    </style>
+  </defs>
+  <text class="cls-3" transform="translate(27.74 55.18)"><tspan class="cls-9" x="0" y="0">P</tspan><tspan x="13.93" y="0">ANDI</tspan><tspan class="cls-11" x="70" y="0">Y</tspan><tspan x="83.54" y="0">AN</tspan><tspan class="cls-10" x="116.96" y="0">K</tspan><tspan x="131.12" y="0">ANNAN</tspan></text>
+  <text class="cls-2" transform="translate(27.74 161.43)"><tspan class="cls-6"><tspan x="0" y="0">GRAPHIC</tspan></tspan><tspan class="cls-6"><tspan x="0" y="28.38">DESIGNER</tspan></tspan><tspan class="cls-7"><tspan x="0" y="56.77">&amp;ART</tspan></tspan><tspan class="cls-6"><tspan x="0" y="85.15">DIRECTOR</tspan></tspan></text>
+  <path class="cls-1" d="m201.69,201c-.9,1.68-1.32,3.12-1.32,4.32,1.14-.42,2.34-1.26,3.66-2.64,1.32-1.38,2.34-2.22,3.06-2.46.18-.06.54-.12.96-.12,1.5,0,2.76,1.26,2.76,3,0,1.26-.66,2.1-1.92,2.52-.42.12-.9.18-1.32.18-.48,0-1.2-.06-2.22-.24-1.92-.3-2.7-.54-4.92-.06.78.96,1.98,1.86,3.66,2.7,1.74.78,2.82,1.5,3.24,2.1.42.6.6,1.14.6,1.68,0,.84-.42,1.62-1.26,2.28-.54.42-1.14.6-1.74.6-.9,0-1.62-.42-2.22-1.2-.48-.66-.84-1.86-1.08-3.72-.24-1.86-.72-3.3-1.38-4.32-.66,1.02-1.14,2.46-1.38,4.32-.25,1.86-.6,3.06-1.08,3.72-.61.78-1.32,1.2-2.16,1.2-.6,0-1.2-.18-1.74-.6-.84-.66-1.26-1.44-1.26-2.34,0-.54.18-1.08.54-1.62.42-.6,1.5-1.32,3.24-2.1,1.74-.84,2.94-1.74,3.66-2.7-.79-.18-1.5-.3-2.04-.3-.66,0-1.5.12-2.64.3-1.14.18-1.92.3-2.4.3-1.98,0-3.3-1.08-3.3-2.7,0-.3.06-.66.18-1.02.42-1.32,1.32-1.98,2.58-1.98.42,0,.78.06.96.12.72.24,1.74,1.08,3.06,2.46,1.32,1.38,2.58,2.22,3.72,2.64-.06-1.2-.54-2.64-1.44-4.32-.9-1.68-1.32-2.94-1.32-3.72,0-1.68,1.08-2.76,2.82-2.76s2.82,1.14,2.82,2.76c0,.78-.48,1.98-1.38,3.72"/>
+  <image width="3554" height="5334" transform="translate(7.51 179.78) scale(.07)" xlink:href="../../Photos for pandiyan/Pandiyan_profile.png"/>
+  <text class="cls-4" transform="translate(27.74 501.43)"><tspan class="cls-12"><tspan x="0" y="0">pandiyankanna@gmail.com</tspan></tspan><tspan class="cls-8"><tspan x="0" y="22.39">+91 9788982825</tspan></tspan></text>
+  <text class="cls-5" transform="translate(27.74 586.25)"><tspan x="0" y="0">looking forward to</tspan><tspan x="0" y="22.82">hearing from you</tspan></text>
+</svg>

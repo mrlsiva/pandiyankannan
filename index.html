@@ -33,20 +33,35 @@
         }
         
         @media (max-width: 767.98px) {
+            a {
+            font-family: 'Archivo Black', sans-serif;
+            background-color: #000;
+            color: #fff;
+            position: absolute;
+            font-size: 18px;
+            left: calc(50% - 123px);
+    top: 76px;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 32px;
+    animation-duration: 1200ms;
+    animation-name: blink;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    -webkit-animation:blink 1200ms infinite; /* Safari and Chrome */
+}
+svg {
+    max-width: 14px;
+    width: 14px;
+    margin-left: 8px;
+}
             .mobile {
                 display: none;
             }
         }
         
         @media (min-width: 768px) {
-            .desktop {
-                display: none;
-            }
-        }
-        a:hover {
-            color: #fff;
-        }
-        a {
+            a {
             font-family: 'Archivo Black', sans-serif;
             background-color: #000;
             color: #fff;
@@ -63,6 +78,19 @@
     animation-direction: alternate;
     -webkit-animation:blink 1200ms infinite; /* Safari and Chrome */
 }
+svg {
+    max-width: 22px;
+    width: 22px;
+    margin-left: 12px;
+}
+            .desktop {
+                display: none;
+            }
+        }
+        a:hover {
+            color: #fff;
+        }
+        
 @keyframes blink {
     0%   {background-color:green;}
     25% { background-color:red;}
@@ -78,12 +106,9 @@
     75% { background-color:red;}
   100% {background-color:green;}
 
+  
 }
-svg {
-    max-width: 22px;
-    width: 22px;
-    margin-left: 12px;
-}
+
 
     </style>
 </head>

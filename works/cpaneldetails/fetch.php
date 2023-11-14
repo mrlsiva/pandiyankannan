@@ -10,9 +10,9 @@ $output .= '
  <table class="table table-bordered table-striped">
   <tr>
    <th>Sr. No</th>
-   <th>Image</th>
-   <th>Name</th>
-   <th>Price</th>
+   <th>Project Image</th>
+   <th>Project Name</th>
+   <th>Project Sub Titile</th>
    <th>Description</th>
    <th>Edit</th>
    <th>Delete</th>

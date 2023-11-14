@@ -15,7 +15,8 @@
         font-family: 'Archivo Black', sans-serif;
     }
 .menu-img {
-    max-width:100px;
+    max-width:500px;
+    width:100%
 }
 .menu-item {
     background: #fff;

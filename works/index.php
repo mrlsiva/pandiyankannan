@@ -6,7 +6,11 @@
 <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
 <title>Pandiyan Kannan</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
+<style>
+.menu-img {
+    max-width:100px;
+}
+    </style>
 </head>
 
 <body>
@@ -29,7 +33,7 @@ if($number_of_rows > 0)
  {
   $count ++; 
   $output .= '
-  <div class="col-lg-6 menu-item"> <img src="cpaneldetails/files/'.$row["image_name"].'" class="menu-img" alt=""> <div class="menu-content"> <a href="#">'.$row["ProductName"].'</a><span>Rs.'.$row["price"].'</span> </div> <div class="menu-ingredients"> '.$row["image_description"].' </div> </div>';
+  <div class="col-lg-6 menu-item"> <img  src="cpaneldetails/files/'.$row["image_name"].'" class="menu-img" alt=""> <div class="menu-content"> <a href="#">'.$row["ProductName"].'</a><span>Rs.'.$row["price"].'</span> </div> <div class="menu-ingredients"> '.$row["image_description"].' </div> </div>';
  }
 }
 else

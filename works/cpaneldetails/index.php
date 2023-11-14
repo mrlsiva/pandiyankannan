@@ -46,15 +46,15 @@
       <input type="text" name="image_name" id="image_name" class="form-control" />
      </div>
      <div class="form-group">
-      <label>ProductName</label>
+      <label>Project Name</label>
       <input type="text" name="ProductName" id="ProductName" class="form-control" />
      </div>
      <div class="form-group">
-      <label>Price</label>
+      <label>Project Sub Name</label>
       <input type="text" name="price" id="price" class="form-control" />
      </div>
      <div class="form-group">
-      <label>Image Description</label>
+      <label>Project Description</label>
       <input type="text" name="image_description" id="image_description" class="form-control" />
      </div>
      

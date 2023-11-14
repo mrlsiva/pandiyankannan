@@ -50,7 +50,7 @@
       <input type="text" name="ProductName" id="ProductName" class="form-control" />
      </div>
      <div class="form-group">
-      <label>Project value</label>
+      <label>Project link</label>
       <input type="text" name="price" id="price" class="form-control" />
      </div>
      <div class="form-group">

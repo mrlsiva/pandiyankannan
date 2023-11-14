@@ -12,7 +12,7 @@ $output .= '
    <th>Sr. No</th>
    <th>Project Image</th>
    <th>Project Name</th>
-   <th>Project Value</th>
+   <th>Link</th>
    <th>Description</th>
    <th>Edit</th>
    <th>Delete</th>

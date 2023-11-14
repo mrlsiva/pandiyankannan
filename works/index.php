@@ -19,11 +19,17 @@
     overflow: hidden;
     padding: 12px;
 }
+.title {
+    width:100%;
+    text-align: center
+}
     </style>
 </head>
 
 <body>
-
+<div class="title">
+    <h2> MY Works </h2>
+</div>
 
     <main id="main">
                 <?php

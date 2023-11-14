@@ -6,9 +6,13 @@
 <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
 <title>Pandiyan Kannan</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap" rel="stylesheet">
 <style>
     body {
         background: #222;
+        font-family: 'Archivo Black', sans-serif;
     }
 .menu-img {
     max-width:100px;
@@ -18,10 +22,15 @@
     border-radius: 12px;
     overflow: hidden;
     padding: 12px;
+    margin-bottom: 12px;
 }
 .title {
     width:100%;
     text-align: center
+}
+h2 {
+    font-size: 24px;
+    color: #fff;
 }
     </style>
 </head>

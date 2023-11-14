@@ -7,8 +7,17 @@
 <title>Pandiyan Kannan</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+    body {
+        background: #222;
+    }
 .menu-img {
     max-width:100px;
+}
+.menu-item {
+    background: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+    padding: 12px;
 }
     </style>
 </head>
@@ -33,7 +42,7 @@ if($number_of_rows > 0)
  {
   $count ++; 
   $output .= '
-  <div class="col-lg-6 menu-item"> Project Img<img  src="cpaneldetails/files/'.$row["image_name"].'" class="menu-img" alt=""><br> <div class="menu-content"> <span href="#">Project Name :'.$row["ProductName"].'</span><br><a>Link :'.$row["price"].'</a> </div><br> <div class="menu-ingredients"> Project Desc :'.$row["image_description"].' </div> </div>';
+  <div class="menu-item"> Project Img<img  src="cpaneldetails/files/'.$row["image_name"].'" class="menu-img" alt=""><br> <div class="menu-content"> <span href="#">Project Name :'.$row["ProductName"].'</span><br><a>Link :'.$row["price"].'</a> </div><br> <div class="menu-ingredients"> Project Desc :'.$row["image_description"].' </div> </div>';
  }
 }
 else

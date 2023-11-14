@@ -3,7 +3,7 @@
  <head>
  <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>MMB</title>
+  <title>Pandiyan</title>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
@@ -18,7 +18,7 @@
  <body>
   <br />
   <div class="container">
-   <h3 align="center">MMB Menu List</h3>
+   <h3 align="center">My Works</h3>
    <br />
    <div align="center">
     <input type="file" name="multiple_files" id="multiple_files" multiple />
@@ -175,7 +175,7 @@ $(document).ready(function(){
     success:function(data)
     {
      load_image_data();
-     alert("Image removed");
+     alert("Deleted Sucessfully");
     }
    });
   }

@@ -13,21 +13,6 @@
 
 
     <main id="main">
-
-        <!-- ======= Menu Section ======= -->
-        <section id="menu" class="menu section-bg">
-            <div class="container" data-aos="fade-up">
-
-                <div class="section-title">
-                    <h2>Menu</h2>
-                    <p>Check Our Tasty Menu</p>
-                </div>
-                <?php
-                require('cpaneldetails/Dbconfig.php');
-                ?> 
-                <div class="row menu-container" data-aos="fade-up" data-aos-delay="200">
-               
-                
                 <?php
 include('cpaneldetails/Dbconfig.php');
 $query = "SELECT * FROM tbl_image ORDER BY image_id DESC";
@@ -58,13 +43,6 @@ else
 // $output .= '</table>';
 echo $output;
 ?>
-                
-
-                </div>
-
-            </div>
-        </section>
-        <!-- End Menu Section -->
 
 
 </body>

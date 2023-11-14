@@ -16,7 +16,7 @@
     }
 .menu-img {
     max-width:500px;
-    margin 0 auto;
+    margin: 0 auto;
     width:100%
 }
 .menu-item {

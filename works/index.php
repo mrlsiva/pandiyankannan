@@ -63,7 +63,7 @@ if($number_of_rows > 0)
  {
   $count ++; 
   $output .= '
-  <div class="menu-item"> <div class="img"><img  src="cpaneldetails/files/'.$row["image_name"].'" class="menu-img" alt=""></div><br> <div class="menu-content"> <span href="#">Project Name :'.$row["ProductName"].'</span><br><a>Link :'.$row["price"].'</a> </div><br> <div class="menu-ingredients"> Project Desc :'.$row["image_description"].' </div> </div>';
+  <div class="menu-item"> <div class="img"><img  src="cpaneldetails/files/'.$row["image_name"].'" class="menu-img" alt=""></div><br> <div class="menu-content"> <span href="#">Project Name :'.$row["ProductName"].'</span><br><a>Link :'.$row["price"].'</a> </div> <div class="menu-ingredients"> Project Desc :'.$row["image_description"].' </div> </div>';
  }
 }
 else

@@ -79,7 +79,7 @@
 </head>
 
 <body>
-    <h1>Responsive Projects</h1><hr>
+    <h1>My Projects</h1><hr>
     <div id="gallery" class="container-fluid">  
     <?php
                 include('cpaneldetails/Dbconfig.php');

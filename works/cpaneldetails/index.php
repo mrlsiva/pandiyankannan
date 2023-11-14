@@ -38,7 +38,7 @@
    <form method="POST" id="edit_image_form">
     <div class="modal-header">
      <button type="button" class="close" data-dismiss="modal">&times;</button>
-     <h4 class="modal-title">Edit Image Details</h4>
+     <h4 class="modal-title">Edit Project</h4>
     </div>
     <div class="modal-body">
      <div class="form-group">
@@ -50,7 +50,7 @@
       <input type="text" name="ProductName" id="ProductName" class="form-control" />
      </div>
      <div class="form-group">
-      <label>Project Sub Name</label>
+      <label>Project value</label>
       <input type="text" name="price" id="price" class="form-control" />
      </div>
      <div class="form-group">

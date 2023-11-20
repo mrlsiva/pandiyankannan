@@ -1,3 +1,45 @@
 .elementor img {
     width: 100%;
 }
+
+.body-class{
+    background-color: black;
+}
+.navbar-brand img{
+    width: 300px;
+}
+
+.main-heading h1{
+    text-align: center; 
+    font-size: 140px; 
+    padding-top: 80px;
+    color: aliceblue;
+}
+.nxt-spin h4 {
+   margin-top: 30px;
+    font-size: 30px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.star-sym {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80px;
+}
+
+/* spinner */
+.spinner {
+    animation: spin 5s infinite linear;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+/* spinner */

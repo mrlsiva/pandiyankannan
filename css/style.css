@@ -2,11 +2,48 @@
     width: 100%;
 }
 
+.main-img img{
+    width:100%;
+    height:100%;
+    max-width:768px; 
+    top: 50px; 
+    right: 250px; 
+    position: fixed;
+}
+
 .body-class{
     background-color: black;
+    overflow: hidden;
 }
 .navbar-brand img{
     width: 300px;
+}
+
+.contact-det{
+    color: #fff; 
+    position: absolute; 
+    top: 100px; 
+    right: 150px;
+}
+
+.font-sizee{
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 0;
+    font-family: Segoe UI ;
+    font-size: 110px !important;
+    margin-left: 100px;
+    color: #fff !important;
+    font-weight: 700 !important;
+    letter-spacing: 8px;
+}
+
+.font-sub h1{
+    font-family: Segoe UI ;
+    font-size: 30px !important;
+    color: #fff !important;
+    letter-spacing: 2px;
+    padding-left: 173px;
 }
 
 .main-heading h1{
@@ -23,9 +60,9 @@
 }
 
 .star-sym {
-    display: block;
+    /* display: block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto; */
     width: 80px;
 }
 
@@ -43,3 +80,302 @@
     }
 }
 /* spinner */
+
+/* styles.css */
+@keyframes extraordinaryAnimation {
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    50% {
+        opacity: 1;
+        transform: scale(1.2);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.extraordinary-section {
+    opacity: 0;
+    animation: extraordinaryAnimation 1.5s ease-in-out forwards;
+}
+
+.extraordinary {
+    animation: rotate 5s linear infinite; /* Add a rotating animation to the image */
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/* button */
+
+
+
+
+.portfolioo a:hover {
+    color: #fff;
+}
+
+@keyframes blink {
+    0% {
+        background-color: green;
+    }
+
+    25% {
+        background-color: red;
+    }
+
+    50% {
+        background-color: blue;
+    }
+
+    75% {
+        background-color: purple;
+    }
+
+    100% {
+        background-color: black;
+    }
+}
+
+@-webkit-keyframes blink {
+    0% {
+        background-color: black;
+    }
+
+    25% {
+        background-color: purple;
+    }
+
+    50% {
+        background-color: blue;
+    }
+
+    75% {
+        background-color: red;
+    }
+
+    100% {
+        background-color: green;
+    }
+
+
+}
+
+
+
+/*screen in */
+
+
+
+ 
+
+
+
+
+
+
+
+/*responsive*/
+@media (max-width: 761.9px) {
+   .headerr .navbar-brand img{
+    padding-top: 50px;
+    padding-left: 60px;
+    width: 250px;
+   }
+   .contact-det{
+    top: 600px; 
+    right: 95px;
+   }
+   .portfolioo  a {
+    font-family: 'Archivo Black', sans-serif;
+    background-color: #000;
+    color: #fff;
+    position: absolute;
+    font-size: 18px;
+    left: calc(50% - 130px);
+    top: 78px;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 32px;
+    animation-duration: 1200ms;
+    animation-name: blink;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    -webkit-animation: blink 1200ms infinite;
+    /* Safari and Chrome */
+}
+
+svg {
+    max-width: 14px;
+    width: 14px;
+    margin-left: 8px;
+}
+
+.caption{
+    padding-top: 80px;
+}
+.font-sizee {
+    margin-left: 60px;
+    font-size: 40px !important;
+    display: flex;
+}
+
+.star-sym {
+    display: flex;
+    width: 30px;
+}
+
+.main-img img{
+    width:80%;
+    height:80%;
+    top: 90px; 
+    right: 50px; 
+    position: absolute;
+}
+
+.font-sub h1{
+    padding-top: 430px;
+    letter-spacing: 2px;
+    padding-left: 70px;
+    padding-right: 60px;
+    font-size: 20px;
+}
+
+   
+}
+
+@media screen and (min-width: 762px) and (max-width: 1279.9px) {
+    .headerr .navbar-brand img{
+        padding-top: 50px;
+        padding-left: 60px;
+        width: 250px;
+       }
+       .contact-det{
+        top: 600px; 
+        right: 95px;
+       }
+
+       .portfolioo  a {
+        font-family: 'Archivo Black', sans-serif;
+        background-color: #000;
+        color: #fff;
+        position: absolute;
+        font-size: 28px;
+        right: 30px;
+        top: 30px;
+        text-decoration: none;
+        padding: 8px 24px;
+        border-radius: 32px;
+        animation-duration: 1200ms;
+        animation-name: blink;
+        animation-iteration-count: infinite;
+        animation-direction: alternate;
+        -webkit-animation: blink 1200ms infinite;
+        /* Safari and Chrome */
+    }
+
+    svg {
+        max-width: 22px;
+        width: 22px;
+        margin-left: 12px;
+    }
+
+    .caption{
+        padding-top: 80px;
+    }
+    .font-sizee {
+        margin-left: 60px;
+        font-size: 40px !important;
+        display: flex;
+    }
+    
+    .star-sym {
+        display: flex;
+        width: 30px;
+    }
+    
+    .main-img img{
+        width:80%;
+        height:80%;
+        top: 90px; 
+        right: 50px; 
+        position: absolute;
+    }
+    
+    .font-sub h1{
+        padding-top: 430px;
+        letter-spacing: 2px;
+        padding-left: 70px;
+        padding-right: 60px;
+        font-size: 20px;
+    }
+    
+}
+@media (min-width: 1280px) {
+    .headerr .navbar-brand img{
+        padding-left: 90px;
+        width: 300px;
+       }
+
+    .main-logo-row{
+        padding-top: 25px;
+    }
+    .contact-det{
+        top: 100px; 
+        right: 10px;
+    }
+    .caption{
+        padding-top: 20px;
+    }
+    .font-sizee {
+        margin-left: 50px;
+    }
+
+    .contact-det{
+        top: 100px; 
+        right: 150px;
+    }
+
+    .font-sub h1{
+        letter-spacing: 2px;
+        padding-left: 173px;
+    }
+
+    .portfolioo a {
+        font-family: 'Archivo Black', sans-serif;
+        background-color: #000;
+        color: #fff;
+        position: absolute;
+        font-size: 28px;
+        right: 30px;
+        top: 30px;
+        text-decoration: none;
+        padding: 8px 24px;
+        border-radius: 32px;
+        animation-duration: 1200ms;
+        animation-name: blink;
+        animation-iteration-count: infinite;
+        animation-direction: alternate;
+        -webkit-animation: blink 1200ms infinite;
+        /* Safari and Chrome */
+    }
+
+    svg {
+        max-width: 22px;
+        width: 22px;
+        margin-left: 12px;
+    }
+}
+
+
+
+

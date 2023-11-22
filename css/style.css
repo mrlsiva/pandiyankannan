@@ -7,7 +7,7 @@
     height:100%;
     max-width:768px; 
     top: 50px; 
-    right: 270px; 
+    right: 250px; 
     position: fixed;
 }
 
@@ -31,7 +31,7 @@
     margin-top: 0;
     padding: 0;
     font-family: 'OPTIVenus-BoldExtended' !important;
-    font-size: 100px !important;
+    font-size: 105px !important;
     margin-left: 100px;
     color: #fff !important;
     font-weight: 700 !important;
@@ -61,7 +61,7 @@
 
 .star-sym {
     display: flex;
-    width: 70px;
+    width: 60px;
 }
 
 /* spinner */
@@ -183,196 +183,9 @@
 
 
 /*responsive*/
-@media (max-width: 761.9px) {
-   .headerr .navbar-brand img{
-    padding-top: 50px;
-    padding-left: 60px;
-    width: 250px;
-   }
-   .contact-det{
-    top: 600px; 
-    right: 95px;
-   }
-   .portfolioo  a {
-    font-family: 'Archivo Black', sans-serif;
-    background-color: #000;
-    color: #fff;
-    position: absolute;
-    font-size: 18px;
-    left: calc(50% - 130px);
-    top: 78px;
-    text-decoration: none;
-    padding: 8px 16px;
-    border-radius: 32px;
-    animation-duration: 1200ms;
-    animation-name: blink;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
-    -webkit-animation: blink 1200ms infinite;
-    /* Safari and Chrome */
-}
 
-svg {
-    max-width: 14px;
-    width: 14px;
-    margin-left: 8px;
-}
 
-.caption{
-    padding-top: 120px !important;
-}
-.font-sizee {
-    margin-left: 60px;
-    font-size: 40px !important;
-    display: flex;
-}
 
-.star-sym {
-    display: flex;
-    width: 30px;
-}
-
-.main-img img{
-    width:80%;
-    height:80%;
-    top: 90px; 
-    right: 50px; 
-    position: absolute;
-}
-
-.font-sub h1{
-    padding-top: 430px;
-    letter-spacing: 2px;
-    padding-left: 70px;
-    padding-right: 60px;
-    font-size: 20px;
-}
-
-   
-}
-
-@media screen and (min-width: 762px) and (max-width: 1279.9px) {
-    .headerr .navbar-brand img{
-        padding-top: 50px;
-        padding-left: 60px;
-        width: 250px;
-       }
-       .contact-det{
-        top: 600px; 
-        right: 95px;
-       }
-
-       .portfolioo  a {
-        font-family: 'Archivo Black', sans-serif;
-        background-color: #000;
-        color: #fff;
-        position: absolute;
-        font-size: 28px;
-        right: 30px;
-        top: 30px;
-        text-decoration: none;
-        padding: 8px 24px;
-        border-radius: 32px;
-        animation-duration: 1200ms;
-        animation-name: blink;
-        animation-iteration-count: infinite;
-        animation-direction: alternate;
-        -webkit-animation: blink 1200ms infinite;
-        /* Safari and Chrome */
-    }
-
-    svg {
-        max-width: 22px;
-        width: 22px;
-        margin-left: 12px;
-    }
-
-    .caption{
-        padding-top: 80px;
-    }
-    .font-sizee {
-        margin-left: 60px;
-        font-size: 40px !important;
-        display: flex;
-    }
-    
-    .star-sym {
-        display: flex;
-        width: 30px;
-    }
-    
-    .main-img img{
-        width:80%;
-        height:80%;
-        top: 90px; 
-        right: 50px; 
-        position: absolute;
-    }
-    
-    .font-sub h1{
-        padding-top: 430px;
-        letter-spacing: 2px;
-        padding-left: 70px;
-        padding-right: 60px;
-        font-size: 20px;
-    }
-    
-}
-@media (min-width: 1280px) {
-    .headerr .navbar-brand img{
-        padding-left: 90px;
-        width: 400px;
-       }
-
-    .main-logo-row{
-        padding-top: 25px;
-    }
-    .contact-det{
-        top: 100px; 
-        right: 10px;
-    }
-    .caption{
-        padding-top: 40px;
-    }
-    .font-sizee {
-        margin-left: 50px;
-    }
-
-    .contact-det{
-        top: 100px; 
-        right: 150px;
-    }
-
-    .font-sub h1{
-        letter-spacing: 2px;
-        padding-left: 173px;
-    }
-
-    .portfolioo a {
-        font-family: 'Archivo Black', sans-serif;
-        background-color: #000;
-        color: #fff;
-        position: absolute;
-        font-size: 28px;
-        right: 30px;
-        top: 30px;
-        text-decoration: none;
-        padding: 8px 24px;
-        border-radius: 32px;
-        animation-duration: 1200ms;
-        animation-name: blink;
-        animation-iteration-count: infinite;
-        animation-direction: alternate;
-        -webkit-animation: blink 1200ms infinite;
-        /* Safari and Chrome */
-    }
-
-    svg {
-        max-width: 22px;
-        width: 22px;
-        margin-left: 12px;
-    }
-}
 
 @font-face {
     font-family: 'OPTIVenus-BoldExtended';

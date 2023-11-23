@@ -1,6 +1,6 @@
-.elementor img {
-    width: 100%;
-}
+
+
+
 
 .main-img img{
     width:100%;
@@ -10,59 +10,70 @@
     right: 250px; 
     position: fixed;
 }
-
 .body-class{
     background-color: black;
     overflow: hidden;
 }
 .navbar-brand img{
-    width: 300px;
+    width: 450px !important;
+    padding-top: 30px;
+    padding-left: 160px;
 }
-
+.main-font{
+    padding-left: 160px;
+    padding-top: 50px;
+}
+.font-sizee{
+    margin-bottom: 0;
+    font-family: 'OPTIVenus-BoldExtended' !important;
+    font-size: 105px !important;
+    color: #fff !important; 
+    letter-spacing: 2px;
+}
+.font-sub h1{
+    font-family: Segoe UI ;
+    font-size: 30px !important;
+    color: #fff !important;
+    letter-spacing: 2px;
+    padding-left: 160px;
+}
 .contact-det{
     color: #fff; 
     position: absolute; 
     top: 90px !important; 
     right: 150px;
 }
-
-.font-sizee{
-    margin-bottom: 0;
-    margin-top: 0;
-    padding: 0;
-    font-family: 'OPTIVenus-BoldExtended' !important;
-    font-size: 105px !important;
-    margin-left: 100px;
-    color: #fff !important;
-    font-weight: 700 !important;
-    letter-spacing: 2px;
-}
-
-.font-sub h1{
-    font-family: Segoe UI ;
-    font-size: 30px !important;
-    color: #fff !important;
-    letter-spacing: 2px;
-    padding-left: 173px;
-}
-
-.main-heading h1{
-    text-align: center; 
-    font-size: 140px; 
-    padding-top: 80px;
-    color: aliceblue;
-}
-.nxt-spin h4 {
-   margin-top: 30px;
-    font-size: 30px;
-    text-align: center;
-    color: aliceblue;
-}
-
 .star-sym {
     display: flex;
-    width: 60px;
+    width: 80px;
 }
+.portfolioo a {
+    font-family: 'Archivo Black', sans-serif;
+    background-color: #000;
+    color: #fff;
+    position: absolute;
+    font-size: 28px;
+    right: 30px;
+    top: 30px;
+    text-decoration: none;
+    padding: 8px 24px;
+    border-radius: 32px;
+    animation-duration: 1200ms;
+    animation-name: blink;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    -webkit-animation: blink 1200ms infinite;
+    /* Safari and Chrome */
+}
+svg {
+    max-width: 22px;
+    width: 22px;
+    margin-left: 12px;
+}
+
+
+
+
 
 /* spinner */
 .spinner {
@@ -78,43 +89,6 @@
     }
 }
 /* spinner */
-
-/* styles.css */
-@keyframes extraordinaryAnimation {
-    0% {
-        opacity: 0;
-        transform: scale(0);
-    }
-    50% {
-        opacity: 1;
-        transform: scale(1.2);
-    }
-    100% {
-        opacity: 1;
-        transform: scale(1);
-    }
-}
-
-.extraordinary-section {
-    opacity: 0;
-    animation: extraordinaryAnimation 1.5s ease-in-out forwards;
-}
-
-.extraordinary {
-    animation: rotate 5s linear infinite; /* Add a rotating animation to the image */
-}
-
-@keyframes rotate {
-    0% {
-        transform: rotate(0deg);
-    }
-    100% {
-        transform: rotate(360deg);
-    }
-}
-
-/* button */
-
 
 
 

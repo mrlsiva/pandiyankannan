@@ -1,0 +1,201 @@
+.image-load.fadeIn {
+    -webkit-animation: clip-short 5s normal !important;
+    animation-timing-function: cubic-bezier(0.8, 0.1, 0.1, 0.8) !important;
+    opacity: 0;
+}
+
+@-webkit-keyframes clip-short {
+    0% {
+        transform: translateY(150vh);
+        opacity: 1;
+    }
+    50% {
+        transform: translateY(-0vh);
+        opacity: 1;
+    }
+    100% {
+        transform: translateY(-200vh);
+        opacity: 1;
+    }
+} /* End custom CSS */
+#load-bg {
+    overflow: hidden;
+    background-color: #d6d1ce;
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
+    z-index: 9999;
+    margin-top: 0px;
+    top: 0px;
+} /* End custom CSS */
+
+.fadeIn {
+    -webkit-animation: clip 2s normal !important;
+    animation-timing-function: cubic-bezier(0.8, 0.1, 0.1, 0.8) !important;
+}
+
+@-webkit-keyframes clip {
+    0% {
+        clip-path: inset(0 100% 0 0);
+    }
+    100% {
+        clip-path: inset(0 0 0 0);
+    }
+} /* End custom CSS */
+
+@-webkit-keyframes blur {
+    0% {
+        opacity: 0;
+        -webkit-filter: blur(10vw);
+    }
+    100% {
+        -webkit-filter: blur(0px);
+    }
+} /* End custom CSS */
+
+.slideInUp {
+    -webkit-animation: slideInUpHero 2.7s normal !important;
+    animation-timing-function: cubic-bezier(0.95, 0, 0.15, 1) !important;
+}
+
+@keyframes slideInUpHero {
+    0% {
+        opacity: 1;
+        transform: translate3d(0%, 170%, 0) rotateX(-50deg) rotate(18deg) skew(18deg, 0deg);
+    }
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+} /* End custom CSS */
+
+/* Start custom CSS */
+html {
+    overflow-x: hidden;
+}
+
+@media only screen and (max-width: 600px) {
+    html,
+    body {
+        overflow-x: hidden;
+        overflow-y: scroll;
+        -webkit-overflow-scrolling: touch;
+    }
+}
+
+span {
+    color: #5c5c5c;
+}
+
+.no-indent {
+    text-indent: 0;
+}
+
+@media only screen and (max-width: 500px) {
+    .hide {
+        display: none;
+    }
+}
+
+/* .slideInUp {
+    -webkit-animation: slideInUpWorks 1.5s normal !important;
+    animation-timing-function: cubic-bezier(0.35, 0, 0.15, 1) !important;
+}
+
+@keyframes slideInUpWorks {
+    0% {
+        transform: translate3d(0%, 140%, 0) rotateX(-90deg) rotate(28deg) skew(18deg, 0deg);
+    }
+    100% {
+        transform: none;
+    }
+} */
+
+.fadeIn {
+    -webkit-animation: grow 2.1s normal !important;
+    animation-timing-function: cubic-bezier(0.7, 0, 0, 0.55) !important;
+}
+
+@-webkit-keyframes grow {
+    0% {
+        clip-path: circle(0% at 50% 100%);
+    }
+    100% {
+        clip-path: circle(140% at 47% 100%);
+    }
+}
+
+
+.sub-headline {
+    font-size: clamp(1.6rem, 6vw + 0rem, 10rem);
+    letter-spacing: -0.3vw;
+    text-transform: uppercase;
+}
+
+.num {
+    font: 500 normal 2.5vw/1 var(--e-global-typography-secondary-font-family), Sans-serif !important;
+    letter-spacing: -0.1vw;
+}
+
+.works-headline {
+    font: 500 normal 7.5vw var(--e-global-typography-primary-font-family), Sans-serif !important;
+    letter-spacing: -0.4vw;
+    text-transform: uppercase;
+}
+
+.arrow-link {
+    bottom: 0.6vw;
+    left: -3.5vw;
+    position: absolute;
+    width: 3vw;
+}
+
+@media only screen and (max-width: 769px) {
+    h3 {
+        font-size: 4.9vw !important;
+        line-height: 1.5 !important;
+        letter-spacing: -0.1vw;
+        text-indent: 10vw;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    h1 {
+        zoom: 93%;
+    }
+    .works-headline {
+        font: 500 normal 10vw var(--e-global-typography-primary-font-family), Sans-serif !important;
+        letter-spacing: -0.4vw;
+        margin-bottom: -3vw;
+    }
+
+    .sepia img {
+        min-width: 85vw;
+        max-width: 85vw;
+    }
+}
+
+.spin {
+    animation-name: spin;
+    animation-duration: 10000ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+h1 img {
+    width: 8vw;
+    margin-top: -2.5vw;
+    animation-name: spin;
+    animation-duration: 10000ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}

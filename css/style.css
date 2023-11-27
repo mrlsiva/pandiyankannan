@@ -1,7 +1,6 @@
-
-
-
-
+body {
+	height: 100vh;
+}
 .main-img img{
     width:100%;
     height:100%;
@@ -15,13 +14,15 @@
     overflow: hidden;
 }
 .navbar-brand img{
-    width: 450px !important;
-    padding-top: 30px;
-    padding-left: 160px;
+    max-width: 30%;
+    padding:0;
 }
-.main-font{
-    padding-left: 160px;
-    padding-top: 50px;
+.section-container{
+   padding: 0% 10% 3% 10%;
+}
+.logo-container{
+	padding-top: 30px;
+	padding-bottom: 50px;
 }
 .font-sizee{
     margin-bottom: 0;
@@ -37,12 +38,7 @@
     letter-spacing: 2px;
     padding-left: 160px;
 }
-.contact-det{
-    color: #fff; 
-    position: absolute; 
-    top: 90px !important; 
-    right: 150px;
-}
+
 .star-sym {
     display: flex;
     width: 80px;
@@ -71,9 +67,52 @@ svg {
     margin-left: 12px;
 }
 
+.main-text{	
+	font: 700 normal 8vw 'OPTIVenus-BoldExtended', Sans-serif !important;
+	line-height: 0.98 !important;
+    letter-spacing: -0.5vw;
+	margin-bottom: 0;
+    color: #fff !important; 	
+}
 
+.sub-text h1{
+	font: 500 normal 1.6vw 'OPTIVenus-BoldExtended', Sans-serif !important;
+	line-height: 2vw !important;
+    letter-spacing: 0.1vw;
+	margin-bottom: 0;
+    color: #fff !important; 
+}
+.pt20{
+	padding-top: 20px;
+}
 
+.start-img-wrapper {
+	margin-left: 15px;
+	display: flex;
+}
 
+.start-img-wrapper .star-img {
+	width: 6vw;	
+}
+
+.contact-details{
+    color: #fff; 
+    position: absolute; 
+    top: 110px !important; 
+    right: 100px;
+}
+.contact-details p{
+    font-size: 1.5vw !important;
+}
+.contact-details p{
+    font-size: 1.5vw !important;
+}
+
+.contact-details span{
+    font-size: 1.8vw !important;
+	font-weight: 800;
+	color: #ffffff;
+}
 
 /* spinner */
 .spinner {
@@ -169,4 +208,89 @@ svg {
         url('../fonts/OPTIVenus-BoldExtended.ttf.eot?#iefix') format('embedded-opentype'); 
     font-weight: normal;
     font-style: normal;
+}
+
+
+
+/* animation */
+#load-bg{
+	background-color: rgb(255, 255, 255);
+}
+#load-bg {
+	overflow: hidden;
+	background-color: rgb(255, 255, 255);
+	height: 100vh;
+	width: 100vw;
+	position: fixed;
+	z-index: 9999;
+	margin-top: 0px;
+	top: 0px;
+}
+					
+.motion-effects-layer {
+  overflow: hidden;	
+  transition-property: transform,opacity;
+  transition-timing-function: cubic-bezier(0,.33,.07,1.03);
+  transition-duration: 1s;
+}
+
+.motion-effects {	
+	--translateX: 0px;
+	  --e-transform-transition-duration: 100ms;
+	  transform: translateX(0px);
+}
+.mobile-tab {
+	display: none !important;
+}
+@media only screen and (max-width: 1279px) {
+	.desktop-line {
+		display: none;
+	}
+	
+	.mobile-tab {
+		display: block !important;  
+		margin-top: 100px;
+	}
+	.mobile-tab .contact-details {
+		position: inherit;
+	}
+	.logo-container .contact-details {
+		display: none;
+	}
+}/* 
+@media only screen and (min-width: 768px) and (max-width: 1279px) { 
+	.mobile-tab { 
+		position: relative;
+		bottom: -120px;
+		z-index: 9;
+	} 
+} */
+@media only screen and (max-width: 767px) {
+	 
+	.mobile-tab { 
+		text-align: center;
+		z-index: 9;
+		position: relative;
+	}
+	.contact-details span,
+	.contact-details p {
+		font-size: 16px !important;
+	}
+	.sub-text h1 {
+		font-size: 16px !important;
+		line-height: 20px !important;
+	}
+	.navbar-brand img {
+		padding-top: 0 !important;
+		padding-left: 0 !important;
+		max-width: 100%;
+	}
+	.portfolioo a {
+		position: inherit !important;
+		margin-top: 20px !important;
+		display: table;
+	}
+	.main-img img {
+		top: 120px !important;
+	}
 }

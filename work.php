@@ -105,7 +105,7 @@
                                              <div class="elementor-widget-wrap">
                                                 <div class="elementor-element elementor-element-925ea9b elementor-widget__width-auto header-links elementor-widget elementor-widget-heading" data-id="925ea9b" data-element_type="widget" data-widget_type="heading.default">
                                                    <div class="elementor-widget-container">
-                                                      <div class="elementor-heading-title elementor-size-default"><a href="contact.html">GET IN TOUCH</a></div>
+                                                      <div class="elementor-heading-title elementor-size-default"><a href="mailto:info@orhalevi.art">GET IN TOUCH</a></div>
                                                    </div>
                                                 </div>
                                              </div>
@@ -157,7 +157,7 @@
                                                    <div class="elementor-element elementor-element-ec7f526 elementor-widget__width-auto animated-slow asterisk noselect elementor-invisible elementor-widget elementor-widget-heading" data-id="ec7f526" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInUp&quot;,&quot;motion_fx_translateY_effect&quot;:&quot;yes&quot;,&quot;motion_fx_translateY_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:3.600000000000000088817841970012523233890533447265625,&quot;sizes&quot;:[]},&quot;motion_fx_translateY_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:50,&quot;end&quot;:100}},&quot;_animation_delay&quot;:550,&quot;motion_fx_translateY_direction&quot;:&quot;negative&quot;,&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;]}" data-widget_type="heading.default">
                                                       <div class="elementor-widget-container">
                                                          <span class="elementor-heading-title elementor-size-default">
-                                                            <div class="rotate"><img src="images/asterisk-1.svg" style="width: 100px;"></div>
+                                                            <div class="rotate">✺</div>
                                                          </span>
                                                       </div>
                                                    </div>
@@ -186,7 +186,7 @@
                                                 <div class="elementor-widget-wrap">
                                                    <div class="elementor-element elementor-element-c17f56e elementor-widget__width-auto elementor-invisible elementor-widget elementor-widget-heading" data-id="c17f56e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInUp&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="heading.default">
                                                       <div class="elementor-widget-container">
-                                                         <h2 class="elementor-heading-title elementor-size-default"><a href="">View Project</a></h2>
+                                                         <h2 class="elementor-heading-title elementor-size-default"><a href="https://www.orhalevi.art/notforyou/">Next Case</a></h2>
                                                       </div>
                                                    </div>
                                                 </div>
@@ -318,14 +318,313 @@
                                        </div>
                                     </div>
                                  </section>
-                            
+                                 <section class="elementor-section elementor-inner-section elementor-element elementor-element-7afc95d elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="7afc95d" data-element_type="section">
+                                    <div class="elementor-container elementor-column-gap-default">
+                                       <div class="elementor-row">
+                                          <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-28e4939" data-id="28e4939" data-element_type="column">
+                                             <div class="elementor-column-wrap elementor-element-populated">
+                                                <div class="elementor-widget-wrap">
+                                                   <div class="elementor-element elementor-element-13ab6c8 elementor-invisible elementor-widget elementor-widget-image" data-id="13ab6c8" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInUp&quot;}" data-widget_type="image.default">
+                                                      <div class="elementor-widget-container">
+                                                         <div class="elementor-image">
+                                                            <img decoding="async" width="1653" height="992" src="https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-3-min.jpg" class="attachment-full size-full wp-image-3568" alt="" srcset="https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-3-min.jpg 1653w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-3-min-300x180.jpg 300w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-3-min-1024x615.jpg 1024w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-3-min-768x461.jpg 768w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-3-min-1536x922.jpg 1536w" sizes="(max-width: 1653px) 100vw, 1653px" style="width:100%;height:60.01%;max-width:1653px" />														
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </section>
+                                 <section class="elementor-section elementor-inner-section elementor-element elementor-element-ec329c0 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="ec329c0" data-element_type="section">
+                                    <div class="elementor-container elementor-column-gap-default">
+                                       <div class="elementor-row">
+                                          <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-48f0419" data-id="48f0419" data-element_type="column">
+                                             <div class="elementor-column-wrap elementor-element-populated">
+                                                <div class="elementor-widget-wrap">
+                                                   <div class="elementor-element elementor-element-eaf3f25 elementor-invisible elementor-widget elementor-widget-image" data-id="eaf3f25" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInUp&quot;}" data-widget_type="image.default">
+                                                      <div class="elementor-widget-container">
+                                                         <div class="elementor-image">
+                                                            <img loading="lazy" decoding="async" width="1654" height="1342" src="https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-4-min.jpg" class="attachment-full size-full wp-image-3142" alt="" srcset="https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-4-min.jpg 1654w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-4-min-300x243.jpg 300w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-4-min-1024x831.jpg 1024w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-4-min-768x623.jpg 768w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-4-min-1536x1246.jpg 1536w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-4-min-1568x1272.jpg 1568w" sizes="(max-width: 1654px) 100vw, 1654px" style="width:100%;height:81.14%;max-width:1654px" />														
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </section>
+                                 <section class="elementor-section elementor-inner-section elementor-element elementor-element-4d8bdb0 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="4d8bdb0" data-element_type="section">
+                                    <div class="elementor-container elementor-column-gap-default">
+                                       <div class="elementor-row">
+                                          <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-1a564d7" data-id="1a564d7" data-element_type="column">
+                                             <div class="elementor-column-wrap elementor-element-populated">
+                                                <div class="elementor-widget-wrap">
+                                                   <div class="elementor-element elementor-element-9992eb9 elementor-invisible elementor-widget elementor-widget-image" data-id="9992eb9" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInUp&quot;}" data-widget_type="image.default">
+                                                      <div class="elementor-widget-container">
+                                                         <div class="elementor-image">
+                                                            <img loading="lazy" decoding="async" width="1653" height="1395" src="https://www.orhalevi.art/wp-content/uploads/2022/02/wirdos-showcase-5-1-min.jpg" class="attachment-full size-full wp-image-3570" alt="" srcset="https://www.orhalevi.art/wp-content/uploads/2022/02/wirdos-showcase-5-1-min.jpg 1653w, https://www.orhalevi.art/wp-content/uploads/2022/02/wirdos-showcase-5-1-min-300x253.jpg 300w, https://www.orhalevi.art/wp-content/uploads/2022/02/wirdos-showcase-5-1-min-1024x864.jpg 1024w, https://www.orhalevi.art/wp-content/uploads/2022/02/wirdos-showcase-5-1-min-768x648.jpg 768w, https://www.orhalevi.art/wp-content/uploads/2022/02/wirdos-showcase-5-1-min-1536x1296.jpg 1536w" sizes="(max-width: 1653px) 100vw, 1653px" style="width:100%;height:84.39%;max-width:1653px" />														
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </section>
+                                 <section class="elementor-section elementor-inner-section elementor-element elementor-element-7bdd4c7 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="7bdd4c7" data-element_type="section">
+                                    <div class="elementor-container elementor-column-gap-default">
+                                       <div class="elementor-row">
+                                          <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-728ce25" data-id="728ce25" data-element_type="column">
+                                             <div class="elementor-column-wrap elementor-element-populated">
+                                                <div class="elementor-widget-wrap">
+                                                   <div class="elementor-element elementor-element-d97b69a elementor-invisible elementor-widget elementor-widget-image" data-id="d97b69a" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInUp&quot;}" data-widget_type="image.default">
+                                                      <div class="elementor-widget-container">
+                                                         <div class="elementor-image">
+                                                            <img loading="lazy" decoding="async" width="1654" height="931" src="https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-6-min.jpg" class="attachment-full size-full wp-image-3143" alt="" srcset="https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-6-min.jpg 1654w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-6-min-300x169.jpg 300w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-6-min-1024x576.jpg 1024w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-6-min-768x432.jpg 768w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-6-min-1536x865.jpg 1536w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-6-min-1568x883.jpg 1568w" sizes="(max-width: 1654px) 100vw, 1654px" style="width:100%;height:56.29%;max-width:1654px" />														
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </section>
+                                 <section class="elementor-section elementor-inner-section elementor-element elementor-element-f863a96 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="f863a96" data-element_type="section">
+                                    <div class="elementor-container elementor-column-gap-default">
+                                       <div class="elementor-row">
+                                          <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-0a12795" data-id="0a12795" data-element_type="column">
+                                             <div class="elementor-column-wrap elementor-element-populated">
+                                                <div class="elementor-widget-wrap">
+                                                   <div class="elementor-element elementor-element-018a37e elementor-invisible elementor-widget elementor-widget-image" data-id="018a37e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInUp&quot;}" data-widget_type="image.default">
+                                                      <div class="elementor-widget-container">
+                                                         <div class="elementor-image">
+                                                            <img loading="lazy" decoding="async" width="1654" height="1071" src="https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-8-min.jpg" class="attachment-full size-full wp-image-3569" alt="" srcset="https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-8-min.jpg 1654w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-8-min-300x194.jpg 300w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-8-min-1024x663.jpg 1024w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-8-min-768x497.jpg 768w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-8-min-1536x995.jpg 1536w" sizes="(max-width: 1654px) 100vw, 1654px" style="width:100%;height:64.75%;max-width:1654px" />														
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </section>
+                                 <section class="elementor-section elementor-inner-section elementor-element elementor-element-31cc1fc elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="31cc1fc" data-element_type="section">
+                                    <div class="elementor-container elementor-column-gap-default">
+                                       <div class="elementor-row">
+                                          <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-55f1268" data-id="55f1268" data-element_type="column">
+                                             <div class="elementor-column-wrap elementor-element-populated">
+                                                <div class="elementor-widget-wrap">
+                                                   <div class="elementor-element elementor-element-02f0cac elementor-invisible elementor-widget elementor-widget-image" data-id="02f0cac" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInUp&quot;}" data-widget_type="image.default">
+                                                      <div class="elementor-widget-container">
+                                                         <div class="elementor-image">
+                                                            <img loading="lazy" decoding="async" width="1654" height="3928" src="https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-9-min.png" class="attachment-full size-full wp-image-3145" alt="" srcset="https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-9-min.png 1654w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-9-min-126x300.png 126w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-9-min-431x1024.png 431w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-9-min-768x1824.png 768w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-9-min-647x1536.png 647w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-9-min-862x2048.png 862w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-9-min-1568x3724.png 1568w" sizes="(max-width: 1654px) 100vw, 1654px" style="width:100%;height:237.48%;max-width:1654px" />														
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </section>
+                                 <section class="elementor-section elementor-inner-section elementor-element elementor-element-f869d55 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="f869d55" data-element_type="section">
+                                    <div class="elementor-container elementor-column-gap-default">
+                                       <div class="elementor-row">
+                                          <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-678f720" data-id="678f720" data-element_type="column">
+                                             <div class="elementor-column-wrap elementor-element-populated">
+                                                <div class="elementor-widget-wrap">
+                                                   <div class="elementor-element elementor-element-12f84f8 elementor-invisible elementor-widget elementor-widget-image" data-id="12f84f8" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInUp&quot;}" data-widget_type="image.default">
+                                                      <div class="elementor-widget-container">
+                                                         <div class="elementor-image">
+                                                            <img loading="lazy" decoding="async" width="1654" height="930" src="https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-10-min.png" class="attachment-full size-full wp-image-3146" alt="" srcset="https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-10-min.png 1654w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-10-min-300x169.png 300w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-10-min-1024x576.png 1024w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-10-min-768x432.png 768w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-10-min-1536x864.png 1536w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-10-min-1568x882.png 1568w" sizes="(max-width: 1654px) 100vw, 1654px" style="width:100%;height:56.23%;max-width:1654px" />														
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </section>
+                                 <section class="elementor-section elementor-inner-section elementor-element elementor-element-b833b8c elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="b833b8c" data-element_type="section">
+                                    <div class="elementor-container elementor-column-gap-default">
+                                       <div class="elementor-row">
+                                          <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-4233479" data-id="4233479" data-element_type="column">
+                                             <div class="elementor-column-wrap elementor-element-populated">
+                                                <div class="elementor-widget-wrap">
+                                                   <div class="elementor-element elementor-element-f5acc61 elementor-invisible elementor-widget elementor-widget-image" data-id="f5acc61" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInUp&quot;}" data-widget_type="image.default">
+                                                      <div class="elementor-widget-container">
+                                                         <div class="elementor-image">
+                                                            <img loading="lazy" decoding="async" width="1654" height="931" src="https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-11-min.png" class="attachment-full size-full wp-image-3147" alt="" srcset="https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-11-min.png 1654w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-11-min-300x169.png 300w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-11-min-1024x576.png 1024w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-11-min-768x432.png 768w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-11-min-1536x865.png 1536w, https://www.orhalevi.art/wp-content/uploads/2022/02/weirdos-showcase-11-min-1568x883.png 1568w" sizes="(max-width: 1654px) 100vw, 1654px" style="width:100%;height:56.29%;max-width:1654px" />														
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </section>
                               </div>
                            </div>
                         </div>
                      </div>
                   </div>
                </section>
-              
+               <section class="elementor-section elementor-top-section elementor-element elementor-element-4c9503f elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="4c9503f" data-element_type="section">
+                  <div class="elementor-container elementor-column-gap-default">
+                     <div class="elementor-row">
+                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b3aff8e" data-id="b3aff8e" data-element_type="column">
+                           <div class="elementor-column-wrap elementor-element-populated">
+                              <div class="elementor-widget-wrap">
+                                 <section class="elementor-section elementor-inner-section elementor-element elementor-element-f89d119 elementor-section-full_width off elementor-section-height-default elementor-section-height-default" data-id="f89d119" data-element_type="section">
+                                    <div class="elementor-container elementor-column-gap-default">
+                                       <div class="elementor-row">
+                                          <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-b03e51d" data-id="b03e51d" data-element_type="column">
+                                             <div class="elementor-column-wrap elementor-element-populated">
+                                                <div class="elementor-widget-wrap">
+                                                   <div class="elementor-element elementor-element-88b6765 elementor-widget__width-auto works-headline  elementor-widget elementor-widget-heading" data-id="88b6765" data-element_type="widget" data-widget_type="heading.default">
+                                                      <div class="elementor-widget-container">
+                                                         <div class="elementor-heading-title elementor-size-default">
+                                                            Weirdos
+                                                            <span class="num arrow-link">01</span>
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </section>
+                                 <section class="elementor-section elementor-inner-section elementor-element elementor-element-1555ef8 elementor-section-full_width hover-border elementor-section-height-default elementor-section-height-default" data-id="1555ef8" data-element_type="section">
+                                    <div class="elementor-container elementor-column-gap-default">
+                                       <div class="elementor-row">
+                                          <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-e6350bf arrow " data-id="e6350bf" data-element_type="column">
+                                             <div class="elementor-column-wrap elementor-element-populated">
+                                                <div class="elementor-widget-wrap">
+                                                   <div class="elementor-element elementor-element-a27f91c elementor-widget__width-auto works-headline elementor-widget elementor-widget-heading" data-id="a27f91c" data-element_type="widget" data-widget_type="heading.default">
+                                                      <div class="elementor-widget-container">
+                                                         <div class="elementor-heading-title elementor-size-default"><a href="https://www.orhalevi.art/notforyou/">
+                                                            Notforyou
+                                                            <span class="num arrow-link">02</span>
+                                                            </a>
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="elementor-element elementor-element-d7fef46 elementor-flip-box--effect-zoom-in elementor-absolute hover-link-bottom hide animated-fast e-transform e-transform elementor-widget__width-inherit elementor-invisible elementor-widget elementor-widget-flip-box" data-id="d7fef46" data-element_type="widget" data-settings="{&quot;motion_fx_motion_fx_mouse&quot;:&quot;yes&quot;,&quot;motion_fx_mouseTrack_effect&quot;:&quot;yes&quot;,&quot;motion_fx_mouseTrack_direction&quot;:&quot;negative&quot;,&quot;motion_fx_tilt_effect&quot;:&quot;yes&quot;,&quot;motion_fx_tilt_direction&quot;:&quot;negative&quot;,&quot;motion_fx_tilt_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:2,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.1999999999999999555910790149937383830547332763671875,&quot;sizes&quot;:[]},&quot;_position&quot;:&quot;absolute&quot;,&quot;_transform_rotateZ_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:3,&quot;sizes&quot;:[]},&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:550,&quot;motion_fx_mouseTrack_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="flip-box.default">
+                                                      <div class="elementor-widget-container">
+                                                         <div class="elementor-flip-box" tabindex="0">
+                                                            <div class="elementor-flip-box__layer elementor-flip-box__front">
+                                                               <div class="elementor-flip-box__layer__overlay">
+                                                                  <div class="elementor-flip-box__layer__inner">
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <a class="elementor-flip-box__layer elementor-flip-box__back" href="https://www.orhalevi.art/notforyou/">
+                                                               <div class="elementor-flip-box__layer__overlay">
+                                                                  <div class="elementor-flip-box__layer__inner">
+                                                                  </div>
+                                                               </div>
+                                                            </a>
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </section>
+                                 <section class="elementor-section elementor-inner-section elementor-element elementor-element-1caa083 elementor-section-full_width hover-border elementor-section-height-default elementor-section-height-default" data-id="1caa083" data-element_type="section">
+                                    <div class="elementor-container elementor-column-gap-default">
+                                       <div class="elementor-row">
+                                          <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-44dbafb" data-id="44dbafb" data-element_type="column">
+                                             <div class="elementor-column-wrap elementor-element-populated">
+                                                <div class="elementor-widget-wrap">
+                                                   <div class="elementor-element elementor-element-429c023 elementor-flip-box--effect-zoom-in elementor-absolute arrow hover-link-bottom animated-fast e-transform e-transform elementor-widget__width-inherit elementor-invisible elementor-widget elementor-widget-flip-box" data-id="429c023" data-element_type="widget" data-settings="{&quot;motion_fx_motion_fx_mouse&quot;:&quot;yes&quot;,&quot;motion_fx_mouseTrack_effect&quot;:&quot;yes&quot;,&quot;motion_fx_mouseTrack_direction&quot;:&quot;negative&quot;,&quot;motion_fx_tilt_effect&quot;:&quot;yes&quot;,&quot;motion_fx_tilt_direction&quot;:&quot;negative&quot;,&quot;motion_fx_tilt_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:2,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.1999999999999999555910790149937383830547332763671875,&quot;sizes&quot;:[]},&quot;_position&quot;:&quot;absolute&quot;,&quot;_transform_rotateZ_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-3,&quot;sizes&quot;:[]},&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:550,&quot;motion_fx_mouseTrack_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="flip-box.default">
+                                                      <div class="elementor-widget-container">
+                                                         <div class="elementor-flip-box" tabindex="0">
+                                                            <div class="elementor-flip-box__layer elementor-flip-box__front">
+                                                               <div class="elementor-flip-box__layer__overlay">
+                                                                  <div class="elementor-flip-box__layer__inner">
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <a class="elementor-flip-box__layer elementor-flip-box__back" href="https://www.orhalevi.art/fiire/">
+                                                               <div class="elementor-flip-box__layer__overlay">
+                                                                  <div class="elementor-flip-box__layer__inner">
+                                                                  </div>
+                                                               </div>
+                                                            </a>
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="elementor-element elementor-element-95bcab2 elementor-widget__width-auto works-headline elementor-widget elementor-widget-heading" data-id="95bcab2" data-element_type="widget" data-widget_type="heading.default">
+                                                      <div class="elementor-widget-container">
+                                                         <div class="elementor-heading-title elementor-size-default"><a href="https://www.orhalevi.art/fiire/">
+                                                            Fiire
+                                                            <span class="num arrow-link">03</span>
+                                                            </a>
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </section>
+                                 <section class="elementor-section elementor-inner-section elementor-element elementor-element-b87545b elementor-section-full_width hover-border elementor-section-height-default elementor-section-height-default" data-id="b87545b" data-element_type="section">
+                                    <div class="elementor-container elementor-column-gap-default">
+                                       <div class="elementor-row">
+                                          <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-ede5621" data-id="ede5621" data-element_type="column">
+                                             <div class="elementor-column-wrap elementor-element-populated">
+                                                <div class="elementor-widget-wrap">
+                                                   <div class="elementor-element elementor-element-ad117bf elementor-flip-box--effect-zoom-in elementor-absolute arrow hover-link-bottom  animated-fast e-transform e-transform elementor-widget__width-inherit elementor-invisible elementor-widget elementor-widget-flip-box" data-id="ad117bf" data-element_type="widget" id="#hide" data-settings="{&quot;motion_fx_motion_fx_mouse&quot;:&quot;yes&quot;,&quot;motion_fx_mouseTrack_effect&quot;:&quot;yes&quot;,&quot;motion_fx_mouseTrack_direction&quot;:&quot;negative&quot;,&quot;motion_fx_tilt_effect&quot;:&quot;yes&quot;,&quot;motion_fx_tilt_direction&quot;:&quot;negative&quot;,&quot;motion_fx_tilt_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:2,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.1999999999999999555910790149937383830547332763671875,&quot;sizes&quot;:[]},&quot;_position&quot;:&quot;absolute&quot;,&quot;_transform_rotateZ_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:3,&quot;sizes&quot;:[]},&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:550,&quot;motion_fx_mouseTrack_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="flip-box.default">
+                                                      <div class="elementor-widget-container">
+                                                         <div class="elementor-flip-box" tabindex="0">
+                                                            <div class="elementor-flip-box__layer elementor-flip-box__front">
+                                                               <div class="elementor-flip-box__layer__overlay">
+                                                                  <div class="elementor-flip-box__layer__inner">
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <a class="elementor-flip-box__layer elementor-flip-box__back" href="https://www.orhalevi.art/happygarden/">
+                                                               <div class="elementor-flip-box__layer__overlay">
+                                                                  <div class="elementor-flip-box__layer__inner">
+                                                                  </div>
+                                                               </div>
+                                                            </a>
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                   <div class="elementor-element elementor-element-989defb elementor-widget__width-inherit works-headline elementor-widget elementor-widget-heading" data-id="989defb" data-element_type="widget" data-widget_type="heading.default">
+                                                      <div class="elementor-widget-container">
+                                                         <div class="elementor-heading-title elementor-size-default"><a href="https://www.orhalevi.art/happygarden/">
+                                                            Happy Garden
+                                                            <span class="num arrow-link">04</span>
+                                                            </a>
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </section>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </section>
             </div>
          </div>
       </div>

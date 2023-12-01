@@ -10,7 +10,7 @@ if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['number']) &&
 		
 	// Please enter your email ID 	
 	// $to_email = 'info@ontwikkelcorp.com';
-	$to_email = 'pmrlsivas@gmail.com';
+	$to_email = 'arunsubramaniyan208@gmail.com';
 	
 	// Please enter your name		
 	$to_name = "Ontwikkel Corp";

@@ -1,15 +1,17 @@
 <!DOCTYPE html>
-<html lang="en-US">
-   <head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-      <title>Weirdos &#8211; Or Halevi – Vintage Portfolio</title>
-      <meta name='robots' content='max-image-preview:large' />
-      <link rel='stylesheet' id='elementor-post-6-css' href='https://www.orhalevi.art/wp-content/uploads/elementor/css/post-6.css?ver=1699517009' media='all' />
-      <link rel='stylesheet' id='elementor-post-2219-css' href='https://www.orhalevi.art/wp-content/uploads/elementor/css/post-2219.css?ver=1699576444' media='all' />
-      <link rel='stylesheet' id='elementor-post-4967-css' href='https://www.orhalevi.art/wp-content/uploads/elementor/css/post-4967.css?ver=1699546587' media='all' />
-      
-      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Page Title</title>
+
+    <!-- Bootstrap CSS -->
+    
+    <link rel="stylesheet" href="assests/css/responsive.css">
+	<link rel="stylesheet" href="assests/css/animation.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">  
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
    
       <style>
          body {
@@ -39,60 +41,92 @@
            border-color: #0056b3;
          }
          </style>
-   </head>
+    
+     
+</head>
 
-   <body class="page-template  elementor-kit-6  elementor-page-2219" >
-      <header class="elementor elementor-4967">
-         <header class="elementor-section  elementor-element elementor-element-ad14931">
-            <section class="elementor-section elementor-element">
-               <div class="elementor-row">
-                  <div class="elementor-column elementor-col-50" >
-                     <div class="elementor-widget-container">
-                        <div><a href=""><img src="images/logo.svg" style="width: 200px"></a></div>
-                     </div>
-                  </div>
-               </div>   
-            </section>
-         </header>
-      </header>
-         <section class="elementor-section elementor-inner-section elementor-element elementor-element-97b91d4 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="97b91d4" data-element_type="section">
-            <div class="container">
-               <div class="row">
-                 <!-- Contact Form Column -->
-                 <div class="col-md-6">
-                   <div class="contact-form">
-                     <h2 class="text-center mb-4">Contact Us</h2>
-                     <form action="mail.php">
-                       <div class="form-group">
-                         <label for="name">Name</label>
-                         <input type="text" class="form-control" id="name" placeholder="Your Name">
-                       </div>
-                       <div class="form-group">
-                        <label for="mobile">Mobile</label>
-                        <input type="text" class="form-control" id="mobile" placeholder="Your Mobile Number">
-                      </div>
-                       <div class="form-group">
-                         <label for="email">Email</label>
-                         <input type="email" class="form-control" id="email" placeholder="Your Email">
-                       </div>
-                       <div class="form-group">
-                         <label for="message">Message</label>
-                         <textarea class="form-control" id="message" rows="4" placeholder="Your Message"></textarea>
-                       </div>
-                       <button type="submit" value="submit" class="btn btn-primary btn-block">Submit</button>
-                     </form>
-                   </div>
-                 </div>
-           
-                 <!-- Map Column -->
-                 <div class="col-md-6">
-                   <div class="map">
-                     <!-- Replace the iframe src with your map embed code -->
-                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.1559307313955!2d-0.1282039485073088!3d51.507350882096676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b11059b0bdf%3A0xa7767bb0d0e07942!2sBuckingham%20Palace!5e0!3m2!1sen!2suk!4v1637774301775!5m2!1sen!2suk" width="100%" height="510" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-                   </div>
-                 </div>
-               </div>
-             </div>
-         </section>
-   </body>
+<body class="body-class">
+	<div id="load-bg" class="">
+		<script>
+			document.addEventListener(
+				"DOMContentLoaded",
+				function () {
+					setTimeout(function () {
+						document.getElementById("load-bg").className = "slideDown";
+					}, 10);
+				},
+				false
+			);
+		</script>
+		<style>
+		.slideDown {
+	visibility: visible !important;
+	-webkit-animation: clip 1.4s normal !important;
+	animation-timing-function: cubic-bezier(0.80, 0.1, 0.1, 0.80) !important;
+	transform: translateY(100%);
+}
+
+@-webkit-keyframes clip {
+	0% {
+		transform: translateY(0%);
+	}
+	100% {
+		transform: translateY(100%);
+	}
+}
+		</style>
+	</div>
+	
+	<div class="section-container">
+	
+		<div class="logo-container">
+			<div class="main-logo">
+				<a class="navbar-brand" href="#"><img src="assests/images/logo.svg" style="width: 300px;"></a>
+			</div>
+		<div>
+				
+		</div> 
+		
+						  
+		  <section>
+			<div class="container">
+				<div class="row">
+				  <!-- Contact Form Column -->
+				  <div class="col-md-6">
+					<div class="contact-form">
+					  <h2 class="text-center mb-4">Contact Us</h2>
+					  <form action="assests/mail/mail.php">
+						<div class="form-group">
+						  <label for="name">Name</label>
+						  <input type="text" class="form-control" id="name" placeholder="Your Name">
+						</div>
+						<div class="form-group">
+						 <label for="mobile">Mobile</label>
+						 <input type="text" class="form-control" id="number" placeholder="Your Mobile Number">
+					   </div>
+						<div class="form-group">
+						  <label for="email">Email</label>
+						  <input type="email" class="form-control" id="email" placeholder="Your Email">
+						</div>
+						<div class="form-group">
+						  <label for="message">Message</label>
+						  <textarea class="form-control" id="message" rows="4" placeholder="Your Message"></textarea>
+						</div>
+						<button type="submit" value="submit" class="btn btn-primary btn-block">Submit</button>
+					  </form>
+					</div>
+				  </div>
+			
+				  <!-- Map Column -->
+				  <div class="col-md-6">
+					<div class="map">
+					  <!-- Replace the iframe src with your map embed code -->
+					  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.1559307313955!2d-0.1282039485073088!3d51.507350882096676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b11059b0bdf%3A0xa7767bb0d0e07942!2sBuckingham%20Palace!5e0!3m2!1sen!2suk!4v1637774301775!5m2!1sen!2suk" width="100%" height="510" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+					</div>
+				  </div>
+				</div>
+			  </div>
+		  </section>   		
+	</div>
+</body>
 </html>

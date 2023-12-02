@@ -1,2 +1,0 @@
-# pandiyankannan
-pandiyankannan.com

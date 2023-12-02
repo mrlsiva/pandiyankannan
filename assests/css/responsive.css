@@ -72,9 +72,7 @@
         max-width: 22px;
         width: 22px;
         margin-left: 12px;
-    }
- 
-    
+    }  
  }
 
         /* Styles for screen sizes between 600px and 1024px */
@@ -142,6 +140,7 @@
                 width: 22px;
                 margin-left: 12px;
             }
+
         }
 
         /* Styles for screen sizes between 1024px and 1280px */

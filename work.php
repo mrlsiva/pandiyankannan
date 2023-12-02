@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Page Title</title>
+    <title>Pandiyan Kannan Works</title>
 
     <!-- Bootstrap CSS -->
 
@@ -101,11 +101,9 @@
                                         <img  src="admin-panel/files/'.$row["image_name"].'" class="menu-img slideInUp" alt="" loading="lazy">
                                     </div>
                                     <br> 
-                                    <div class="menu-content slideInUp"> 
-                                        <span href="#"> Project Name : '.$row["ProductName"].'</span>
-                                    </div> 
+                                    
                                     <div class="menu-ingredients slideInUp"> 
-                                        Project Desc : '.$row["image_description"].'
+                                        '.$row["image_description"].'
                                     </div>
                                 </div>
                 </div>

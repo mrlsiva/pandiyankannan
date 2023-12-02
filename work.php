@@ -59,17 +59,6 @@
                                 {
                                 $count ++; 
                                 $output .= '
-    // <section>
-    //     <div class="container">
-    //         <div class="row">
-    //             <div class="row motion-effects motion-effects-layer  col-md-12 project-tit">
-    //                 <div class="font-cover">
-    //                     <h1 class="font-sizee1 main-text slideInUp text-center">'.$row["ProductName"].'</h1>
-    //                 </div>
-    //             </div>
-    //         </div>
-    //     </div>
-    // </section>
 
     <section>
         <div class="container" style="padding-top: 130px;">

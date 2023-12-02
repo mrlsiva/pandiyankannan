@@ -75,7 +75,7 @@
         <div class="container" style="padding-top: 130px;">
             <div class="row">
                 <div class="col-4 col-md-4">
-                    <H5 class="text-left row-spinner slideInUp" style="color: aliceblue;">01</H5>
+                    <H5 class="text-left row-spinner slideInUp" style="color: aliceblue;">'.$count.'</H5>
                 </div>
                 <div class="col-4 col-md-4">
                     <H5 class="text-center row-spinner slideInUp">

@@ -49,7 +49,7 @@ body {
     color: #fff;
     position: absolute;
     font-size: 28px;
-    right: 30px;
+    right: 100px !important;
     top: 30px;
     text-decoration: none;
     padding: 8px 24px;
@@ -268,7 +268,7 @@ svg {
 @media only screen and (max-width: 767px) {
 	 
 	.mobile-tab { 
-		text-align: center;
+		/*   */
 		z-index: 9;
 		position: relative;
 	}

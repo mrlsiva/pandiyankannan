@@ -61,7 +61,7 @@
                                 $output .= '
 
     <section>
-        <div class="container" style="padding-top: 130px;">
+        <div class="container" style="padding-top: 30px;">
             <div class="row">
                 <div class="col-4 col-md-4">
                     <H5 class="text-left row-spinner slideInUp" style="color: aliceblue;">'.$row["ProductName"].'</H5>
@@ -73,15 +73,11 @@
                         <span></span>
                     </H5>
                 </div>
-                <div class="col-4 col-md-4">
-                    <H5 class="text-right row-spinner slideInUp"><a href="#" style="color: aliceblue;">View Project</a>
-                    </H5>
-                </div>
             </div>
         </div>
     </section>
     <section>
-        <div class="container" style="padding-top: 130px;">
+        <div class="container" style="padding-top: 30px;">
             <div class="row">
                 <div class="col-md-12">
                     
@@ -133,7 +129,7 @@
         .menu-ingredients {
             color: white;
             font-size: 30px;
-            padding-bottom: 20px;
+            /* padding-bottom: 20px; */
         }
     </style>
 

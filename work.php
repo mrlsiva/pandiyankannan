@@ -45,7 +45,7 @@
     <main id="main">
                         <?php
                                 include('admin-panel/Dbconfig.php');
-                                $query = "SELECT * FROM tbl_image ORDER BY image_id DESC";
+                                $query = "SELECT * FROM mobile_table ORDER BY image_id DESC";
                                 $statement = $connect->prepare($query);
                                 $statement->execute();
                                 $result = $statement->fetchAll();

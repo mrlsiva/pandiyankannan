@@ -120,7 +120,7 @@
         }
 
         .menu-img {
-            max-width: 600px;
+            /* max-width: 600px; */
             margin: 0 auto;
             width: 100%
         }

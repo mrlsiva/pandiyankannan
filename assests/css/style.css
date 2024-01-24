@@ -257,14 +257,23 @@ svg {
 	.logo-container .contact-details {
 		display: none;
 	}
-}/* 
+}
 @media only screen and (min-width: 768px) and (max-width: 1279px) { 
 	.mobile-tab { 
 		position: relative;
-		bottom: -120px;
+		bottom: -100px;
 		z-index: 9;
 	} 
-} */
+    .contact-details span,
+    .contact-details p {
+		font-size: 24px !important;
+        
+	}
+    .sub-text h1{
+       
+        font-size: 20px !important;
+    }
+}
 @media only screen and (max-width: 767px) {
 	 
 	.mobile-tab { 

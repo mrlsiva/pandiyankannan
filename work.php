@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pandiyan Kannan Works</title>
-
+	<link rel="icon" type="image/x-icon" href="assests/images/fav.png">
     <!-- Bootstrap CSS -->
 
     <link rel="stylesheet" href="assests/css/style.css">

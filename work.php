@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pandiyan Kannan Works</title>
+    <title>Pandiyankannan | Personal Portfolio and Blog</title>
+    <meta name="description" content="Welcome to Pandiyankannan's personal portfolio and blog. Explore my work, thoughts, and experiences in the world of technology and beyond.">
+    <meta name="keywords" content="personal portfolio, blog, technology, software development, web development, coding, programming, Pandiyankannan">
 	<link rel="icon" type="image/x-icon" href="assests/images/fav.png">
     <!-- Bootstrap CSS -->
 

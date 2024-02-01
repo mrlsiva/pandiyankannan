@@ -27,6 +27,15 @@
         .row-spinner {
             font-size: 40px;
         }
+        .star-img {
+            width:70px;
+            margin: auto;
+
+        }
+        @media screen and (max-width:768px){ 
+            width:28px;
+
+        }
     </style>
 </head>
 
@@ -70,7 +79,7 @@
                 </div>
                 <div class="col-4 col-md-4">
                     <H5 class="text-center row-spinner slideInUp">
-                        <img class="star-img spinner" style="margin: auto; width: 70px;"
+                        <img class="star-img spinner star-img"
                             src="assests/images/asterisk-1.svg" alt="Extraordinary Spinner">
                         <span></span>
                     </H5>

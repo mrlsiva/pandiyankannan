@@ -33,7 +33,11 @@
 
         }
         @media screen and (max-width:768px){ 
+            .star-img {
             width:28px;
+            margin: auto;
+
+        }
 
         }
     </style>

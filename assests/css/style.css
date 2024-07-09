@@ -15,6 +15,7 @@ body {
 }
 .navbar-brand img{
     max-width: 30%;
+    /* max-width: 80px; */
     padding:0;
 }
 .section-container{

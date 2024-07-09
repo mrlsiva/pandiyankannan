@@ -10,7 +10,7 @@
 	<link rel="icon" type="image/x-icon" href="assests/images/fav.png">
     <!-- Bootstrap CSS -->
 
-    <link rel="stylesheet" href="assests/css/style.css">
+    <link rel="stylesheet" href="assests/css/style.css?v1">
     <link rel="stylesheet" href="assests/css/animation.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"

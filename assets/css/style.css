@@ -1,6 +1,9 @@
 body {
 	height: 100vh;
 }
+.header-row.text-right {
+    text-align: right;
+}
         .img-cov {
 
             text-align: center;

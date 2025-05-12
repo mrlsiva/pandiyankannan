@@ -24,7 +24,7 @@
                         <img src="assets/images/logo.svg" style="width: 250px;">
                     </a>
                 </div>
-                <div class="col-md-6 header-row">
+                <div class="col-md-6 header-row text-right">
                     <h5 class="text-right">
                         <a href="contact.html" style="color: aliceblue;">GET IN TOUCH</a>
                     </h5>

@@ -10,6 +10,7 @@ $output .= '
  <table class="table table-bordered table-striped">
   <tr>
    <th>Sr. No</th>
+   <th>Category</th>
    <th>Project Image</th>
    <th>Project Name</th>
    <th>Link</th>
@@ -27,6 +28,8 @@ if($number_of_rows > 0)
   $output .= '
   <tr>
    <td>'.$count.'</td>
+   <td>'.$row["ProductCategory"].'</td>
+
    <td><img src="files/'.$row["image_name"].'" class="img-thumbnail" width="100" height="100" /></td>
    <td>'.$row["ProductName"].'</td>
    <td>'.$row["price"].'</td>

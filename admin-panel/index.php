@@ -41,6 +41,10 @@
      <h4 class="modal-title">Edit Project</h4>
     </div>
     <div class="modal-body">
+      <div class="form-group">
+      <label>ProductCategory</label>
+      <input type="text" name="ProductCategory" id="ProductProductCategory" class="form-control" />
+     </div>
      <div class="form-group">
       <label>Image Name</label>
       <input type="text" name="image_name" id="image_name" class="form-control" />
@@ -155,6 +159,7 @@ $(document).ready(function(){
    {
     $('#imageModal').modal('show');
     $('#image_id').val(image_id);
+    $('#ProductCategory').val(data.ProductCategory);
     $('#image_name').val(data.image_name);
     $('#image_description').val(data.image_description);
     $('#price').val(data.price);

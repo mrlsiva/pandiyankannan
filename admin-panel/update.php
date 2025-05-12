@@ -27,7 +27,7 @@ if(isset($_POST["image_id"]))
  {
   $query = "
    UPDATE tbl_image 
-   SET image_description = '".$_POST["image_description"]."',  price = '".$_POST["price"]."', ProductName = '".$_POST["ProductName"]."'
+   SET image_description = '".$_POST["image_description"]."',  price = '".$_POST["price"]."', ProductName = '".$_POST["ProductName"]."', ProductCategory = '".$_POST["ProductCategory"]."'
    WHERE image_id = '".$_POST["image_id"]."'
    ";
  }

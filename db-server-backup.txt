@@ -1,0 +1,12 @@
+local:
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "pandiyan";
+
+
+Server:
+$servername = "localhost";
+$username = "slinggro_pandiyan";
+$password = "$wKa-1YmwXs%";
+$dbname = "slinggro_pandiyan";

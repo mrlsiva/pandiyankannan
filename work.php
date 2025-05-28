@@ -40,7 +40,7 @@
         <div class="container pt-5">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <select id="categoryFilter" class="form-control">
+                    <select id="categoryFilter" class="form-control" style="display: none;">
                         <option value="all">All Categories</option>
                         <?php
                         include('admin-panel/Dbconfig.php');

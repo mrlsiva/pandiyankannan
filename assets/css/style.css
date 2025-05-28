@@ -155,6 +155,7 @@ svg {
 }
 .contact-details p{
     font-size: 1.5vw !important;
+    text-align: right;
 }
 
 .contact-details span{

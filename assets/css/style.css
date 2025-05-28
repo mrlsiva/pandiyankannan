@@ -149,6 +149,7 @@ svg {
     position: absolute; 
     top: 110px !important; 
     right: 100px;
+    z-index: 9;
 }
 .contact-details p{
     font-size: 1.5vw !important;
@@ -352,4 +353,18 @@ svg {
 	.main-img img {
 		top: 120px !important;
 	}
+}
+ul.social-icons {
+    list-style: none;
+    padding: 0;
+    display: flex;
+  align-items: center;
+  justify-content: end;
+}
+ul.social-icons li {
+    float: right;
+    margin-left: 8px;
+}
+ul.social-icons img {
+    max-height: 24px;
 }

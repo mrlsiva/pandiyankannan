@@ -26,7 +26,14 @@
                 </div>
                 <div class="col-md-6 header-row text-right">
                     <h5 class="text-right">
-                        <a href="contact.html" style="color: aliceblue;">GET IN TOUCH</a>
+                        <ul class="social-icons">
+							<li><a href=""><img src="assets/images/socialmedia/facebook.svg?v1"></a></li>
+							<li><a href=""><img src="assets/images/socialmedia/be.svg?v1"  height="18"></a></li>
+							<li><a href=""><img src="assets/images/socialmedia/x.svg?v1" height=""></a></li>
+							<li><a href=""><img src="assets/images/socialmedia/linkedin.svg?v1"></a></li>
+							<li><a href=""><img src="assets/images/socialmedia/insta.svg?v1"></a></li>
+						 </ul>
+                        <!-- <a href="contact.html" style="color: aliceblue;">GET IN TOUCH</a> -->
                     </h5>
                 </div>
             </div>

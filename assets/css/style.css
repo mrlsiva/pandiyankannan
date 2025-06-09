@@ -365,6 +365,7 @@ ul.social-icons li {
     float: right;
     margin-left: 8px;
 }
-ul.social-icons img {
+
+.social-icons-li-img {
     max-height: 24px;
 }

@@ -5,8 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pandiyankannan | Personal Portfolio and Blog</title>
-    <meta name="description" content="Welcome to Pandiyankannan's personal portfolio and blog. Explore my work, thoughts, and experiences in the world of technology and beyond.">
-    <meta name="keywords" content="personal portfolio, blog, technology, software development, web development, coding, programming, Pandiyankannan">
+    <meta name="description"
+        content="Welcome to Pandiyankannan's personal portfolio and blog. Explore my work, thoughts, and experiences in the world of technology and beyond.">
+    <meta name="keywords"
+        content="personal portfolio, blog, technology, software development, web development, coding, programming, Pandiyankannan">
     <link rel="icon" type="image/x-icon" href="assets/images/fav.png">
     <link rel="stylesheet" href="assets/css/style.css?v1">
     <link rel="stylesheet" href="assets/css/animation.css">
@@ -27,12 +29,26 @@
                 <div class="col-md-6 header-row text-right">
                     <h5 class="text-right">
                         <ul class="social-icons">
-							<li><a href=""><img src="assets/images/socialmedia/facebook.svg?v1"></a></li>
-							<li><a href=""><img src="assets/images/socialmedia/be.svg?v1"  height="18"></a></li>
-							<li><a href=""><img src="assets/images/socialmedia/x.svg?v1" height=""></a></li>
-							<li><a href=""><img src="assets/images/socialmedia/linkedin.svg?v1"></a></li>
-							<li><a href=""><img src="assets/images/socialmedia/insta.svg?v1"></a></li>
-						 </ul>
+                            <li><a href="https://www.behance.net/pandiyankanna" target="_blank"><img
+                                        src="assets/images/socialmedia/be.png" class="social-icons-li-img"></a></li>
+                            <li><a href="https://dribbble.com/pandiyankanna" target="_blank"><img
+                                        src="assets/images/socialmedia/dripple.png" class="social-icons-li-img"></a>
+                            </li>
+                            <li><a href="https://www.facebook.com/pandiyankanna1/" target="_blank"><img
+                                        src="assets/images/socialmedia/fb.png" class="social-icons-li-img"></a></li>
+                            <li><a href="https://www.linkedin.com/in/pandiyan-kanna-a77421b3/?originalSubdomain=in"
+                                    target="_blank"><img src="assets/images/socialmedia/in.png"
+                                        class="social-icons-li-img"></a></li>
+                            <li><a href="https://www.instagram.com/pandiyankanna/?hl=en" target="_blank"><img
+                                        src="assets/images/socialmedia/insta.png" class="social-icons-li-img"></a>
+                            </li>
+                            <li><a href="https://in.pinterest.com/pandiyankanna/_profile/" target="_blank"><img
+                                        src="assets/images/socialmedia/print.png" class="social-icons-li-img"></a>
+                            </li>
+                            <li><a href="https://www.linkedin.com/in/pandiyan-kanna-a77421b3/" target="_blank"><img
+                                        src="assets/images/socialmedia/youtube.png" class="social-icons-li-img"></a>
+                            </li>
+                        </ul>
                         <!-- <a href="contact.html" style="color: aliceblue;">GET IN TOUCH</a> -->
                     </h5>
                 </div>
@@ -42,14 +58,14 @@
 
     <main id="main">
 
-    <!-- Dropdown for Category Filter -->
-    <section>
-        <div class="container pt-5">
-            <div class="row">
-                <div class="col-md-12 text-center">
-                    <select id="categoryFilter" class="form-control" style="display: none;">
-                        <option value="all">All Categories</option>
-                        <?php
+        <!-- Dropdown for Category Filter -->
+        <section>
+            <div class="container pt-5">
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <select id="categoryFilter" class="form-control" style="display: none;">
+                            <option value="all">All Categories</option>
+                            <?php
                         include('admin-panel/Dbconfig.php');
                         $query = "SELECT DISTINCT ProductCategory FROM tbl_image ORDER BY ProductCategory";
                         $statement = $connect->prepare($query);
@@ -59,15 +75,15 @@
                             <option value="<?= htmlspecialchars($category['ProductCategory']) ?>">
                                 <?= htmlspecialchars($category['ProductCategory']) ?>
                             </option>
-                        <?php endforeach; ?>
-                    </select>
+                            <?php endforeach; ?>
+                        </select>
+                    </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
 
-    <div id="productContainer">
-        <?php
+        <div id="productContainer">
+            <?php
         $query = "SELECT * FROM tbl_image ORDER BY ProductCategory, image_id DESC";
         $statement = $connect->prepare($query);
         $statement->execute();
@@ -83,9 +99,11 @@
                             </h5>
                         </div>
                         <div class="col-md-12">
-                            <div class="menu-item"> 
+                            <div class="menu-item">
                                 <div class="img-cov col-md-12">
-                                    <img src="admin-panel/files/<?= htmlspecialchars($row['image_name']) ?>" class="menu-img slideInUp" alt="<?= htmlspecialchars($row['ProductName']) ?>" loading="lazy">
+                                    <img src="admin-panel/files/<?= htmlspecialchars($row['image_name']) ?>"
+                                        class="menu-img slideInUp" alt="<?= htmlspecialchars($row['ProductName']) ?>"
+                                        loading="lazy">
                                 </div>
                                 <br>
                                 <div class="menu-ingredients slideInUp text-white">
@@ -94,27 +112,28 @@
                             </div>
                         </div>
                         <div class="col-md-12 text-center">
-                        <h5 class="row-spinner slideInUp">
-                            <img class="star-img spinner" src="assets/images/asterisk-1.svg" alt="Extraordinary Spinner">
-                        </h5>
-                    </div>
+                            <h5 class="row-spinner slideInUp">
+                                <img class="star-img spinner" src="assets/images/asterisk-1.svg"
+                                    alt="Extraordinary Spinner">
+                            </h5>
+                        </div>
                     </div>
                 </div>
             </section>
-        <?php endforeach; ?>
-    </div>
+            <?php endforeach; ?>
+        </div>
 
-    <script>
-        $('#categoryFilter').on('change', function () {
-            var selectedCategory = $(this).val();
-            if (selectedCategory === 'all') {
-                $('.product-item').show();
-            } else {
-                $('.product-item').hide();
-                $('.product-item[data-category="' + selectedCategory + '"]').show();
-            }
-        });
-    </script>
+        <script>
+            $('#categoryFilter').on('change', function () {
+                var selectedCategory = $(this).val();
+                if (selectedCategory === 'all') {
+                    $('.product-item').show();
+                } else {
+                    $('.product-item').hide();
+                    $('.product-item[data-category="' + selectedCategory + '"]').show();
+                }
+            });
+        </script>
 
     </main>
 

@@ -363,9 +363,9 @@ ul.social-icons {
 }
 ul.social-icons li {
     float: right;
-    margin-left: 8px;
+    margin-left: 4px;
 }
 
 .social-icons-li-img {
-    max-height: 24px;
+    max-height: 35px;
 }

@@ -25,12 +25,14 @@
         .row-spinner {
             font-size: 40px;
         }
+
         .star-img {
-            width:70px;
+            width: 70px;
             margin: auto;
 
         }
-        @media screen and (max-width:768px){ 
+
+        @media screen and (max-width:768px) {
             width:28px;
 
         }
@@ -52,7 +54,7 @@
         </div>
     </section>
     <main id="main">
-                        <?php
+        <?php
                                 include('admin-panel/Dbconfig.php');
                                 $query = "SELECT * FROM tbl_image ORDER BY image_id DESC";
                                 $statement = $connect->prepare($query);
@@ -83,8 +85,8 @@
                     </H5>
                 </div>
                 <div class="col-4 col-md-4">
-                    <H5 class="text-right row-spinner slideInUp"><a href="#" style="color: aliceblue;">View Project</a>
-                    </H5>
+                    /* <H5 class="text-right row-spinner slideInUp"><a href="#" style="color: aliceblue;">View Project</a>
+                    </H5> */
                 </div>
             </div>
         </div>
@@ -122,30 +124,29 @@
                                 // $output .= '</table>';
                                 echo $output;
                             ?>
-    <style>
-        .img-cov {
+        <style>
+            .img-cov {
 
-            text-align: center;
-        }
+                text-align: center;
+            }
 
-        .menu-img {
-            /* max-width: 600px; */
-            margin: 0 auto;
-            width: 100%
-            
-        }
+            .menu-img {
+                /* max-width: 600px; */
+                margin: 0 auto;
+                width: 100%
+            }
 
-        .menu-content span {
-            color: white;
-            font-size: 30px
-        }
+            .menu-content span {
+                color: white;
+                font-size: 30px
+            }
 
-        .menu-ingredients {
-            color: white;
-            font-size: 30px;
-            padding-bottom: 20px;
-        }
-    </style>
+            .menu-ingredients {
+                color: white;
+                font-size: 30px;
+                padding-bottom: 20px;
+            }
+        </style>
 
 </body>
 

@@ -7,12 +7,19 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
   <!-- <link rel="stylesheet" type="text/css" href="css/bootstrap.css"> -->
   <style type="text/css">
     #image_table{
       border: 0px solid blue;
       padding: 10px;
     }
+    .ui-state-highlight {
+      height: 50px;
+      background: #f5f5f5;
+      border: 2px dashed #ccc;
+    }
+    .drag-handle:hover { color: #555 !important; }
   </style>
  </head>
  <body>
@@ -75,6 +82,33 @@
 <script>
 $(document).ready(function(){
  load_image_data();
+
+ function init_sortable()
+ {
+  $('#sortable_body').sortable({
+   handle: '.drag-handle',
+   cancel: 'button, input, a, select',
+   placeholder: 'ui-state-highlight',
+   update: function(event, ui)
+   {
+    var order = [];
+    $('#sortable_body tr').each(function(){
+     order.push($(this).data('id'));
+    });
+    $.ajax({
+     url: 'order.php',
+     method: 'POST',
+     data: { order: order },
+     success: function(data)
+     {
+      load_image_data();
+     }
+    });
+   }
+  });
+  $('#sortable_body').disableSelection();
+ }
+
  function load_image_data()
  {
   $.ajax({
@@ -83,6 +117,7 @@ $(document).ready(function(){
    success:function(data)
    {
     $('#image_table').html(data);
+    init_sortable();
    }
   });
  } 

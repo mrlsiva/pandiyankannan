@@ -85,8 +85,7 @@
                     </H5>
                 </div>
                 <div class="col-4 col-md-4">
-                    /* <H5 class="text-right row-spinner slideInUp"><a href="#" style="color: aliceblue;">View Project</a>
-                    </H5> */
+                   
                 </div>
             </div>
         </div>

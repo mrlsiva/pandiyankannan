@@ -56,7 +56,7 @@
     <main id="main">
         <?php
                                 include('admin-panel/Dbconfig.php');
-                                $query = "SELECT * FROM tbl_image ORDER BY image_id DESC";
+                                $query = "SELECT * FROM tbl_image ORDER BY sort_order ASC, image_id ASC";
                                 $statement = $connect->prepare($query);
                                 $statement->execute();
                                 $result = $statement->fetchAll();
